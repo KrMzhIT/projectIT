@@ -1,0 +1,7 @@
+body{background-color: #5B84B1FF; width: 1000px; margin: auto;}
+header{background-color: #FC766AFF; height: 80px; width: 100%; position: fixed; text-align: center; top: 0; left: 0; right: 0;}
+footer{background-color: #FC766AFF; height: 60px; width: 100%; position: fixed; bottom: 0; left: 0; right: 0; text-align: center;}
+h1{font-family: cursive; font-size: 40px; font-weight; color: #97BC62FF; margin-top: 5px; text-align: center;}
+h6{font-family: cursive; font-size: 20px; font-weight; color: #97BC62FF; margin-top: 5px; text-align: center;}
+h2{font-family:cursive; font-size: 25px; font-weight; color:cornflowerblue; text-align: center;}
+li{font-family:cursive; font-size; 25px;}
